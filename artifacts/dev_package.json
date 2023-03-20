@@ -1,0 +1,49 @@
+{
+	"id": "07013187-01c7-ed11-a8e0-000d3ada944e",
+	"createdAt": "2023-03-20T09:28:10.550Z",
+	"createdBy": "lloyd.trevarthen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-coremobilenativeviewer"
+	},
+	"name": "neptunesoftware-dxp-abb-coremobilenativeviewer",
+	"description": null,
+	"ver": "23.3.20.929",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "2c07d6a9-96b6-437b-b3e9-67dc29ed25b9",
+			"application": "p9_core_native_viewer",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
