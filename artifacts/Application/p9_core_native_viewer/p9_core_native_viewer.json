@@ -50,7 +50,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "23.3.20.928",
+	"ver": "23.3.20.1352",
 	"application": "p9_core_native_viewer",
 	"title": "",
 	"description": "",
@@ -62,7 +62,7 @@
 	"disabled": false,
 	"loadLaunchpadCode": null,
 	"loadApplicationCode": null,
-	"appType": "A",
+	"appType": "C",
 	"ui5_m": true,
 	"ui5_f": false,
 	"ui5_table": false,
